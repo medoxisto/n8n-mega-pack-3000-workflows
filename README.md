@@ -39,7 +39,7 @@ Build smarter. Automate faster. Get the Mega Pack today!
 ## 📦 Download
 
 Get your free copy on Gumroad:  
-[n8n Mega Pack: 3000+ Automation Workflows](https://n8nworkflows1.gumroad.com/l/8000n8nWorkflows)
+[n8n Mega Pack: 3000+ Automation Workflows](https://n8nworkflows1.gumroad.com/l/n8nAutomationTemplates)
 
 231 downloads and counting!
 
